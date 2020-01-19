@@ -1,0 +1,28 @@
+# Linux auto files
+*~
+
+# Windows auto files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IntelliJ IDEA files
+.idea/
+out/
+*.ipr
+*.iws
+*.iml
+
+#Java class file
+*.class
+
+target
+
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn
