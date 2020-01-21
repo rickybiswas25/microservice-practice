@@ -1,4 +1,4 @@
-package deb.practice.microservice.microservicepractice.securingweb;
+package loginservice.securingweb;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
