@@ -6,6 +6,7 @@
     <modules>
         <module>login-service</module>
         <module>forex-service</module>
+        <module>currency-conversion-service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
