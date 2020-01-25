@@ -87,6 +87,11 @@
                 <artifactId>spring-cloud-starter-openfeign</artifactId>
                 <version>${version.spring.cloud}</version>
             </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-starter-netflix-ribbon</artifactId>
+                <version>${version.spring.cloud}</version>
+            </dependency>
 
             <dependency>
                 <groupId>org.springframework.security</groupId>
